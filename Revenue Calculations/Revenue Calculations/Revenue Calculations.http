@@ -1,0 +1,6 @@
+@Revenue_Calculations_HostAddress = http://localhost:5087
+
+GET {{Revenue_Calculations_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
