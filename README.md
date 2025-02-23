@@ -10,7 +10,7 @@ Revenue Calculation project consist of below features
   Data Loading
   ============
   Data Loading done by SSIS package
-  Git Repo:
+  Git Repo: https://github.com/varsha-RD/SSIS-Package/tree/main
   
 
   Data Refresh Mechanism:
