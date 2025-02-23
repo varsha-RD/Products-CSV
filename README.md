@@ -18,6 +18,7 @@ Revenue Calculation project consist of below features
   The data refresh mechanism is handled by SQL jobs scheduled to run daily, with logs captured before and after the SQL jobs execute.
   Git link:
   https://github.com/varsha-RD/Products-CSV/blob/main/SQL%20Jobs/Refresh.sql
+  
   Execute the above scripts in the sql server.
   
 
